@@ -1,6 +1,8 @@
 # Hello friend, my name is Luke! 👋
 ---
-I am a software engineer who loves to learn new things and I am constantly growing. Through logic and creativity, I like to tackle problems that are challenging. Some languages I work with include Javascript, Ruby, Python, etc.  
+I am a software engineer who loves to learn new things and I am constantly growing. Through logic and creativity, I like to tackle problems that are challenging. Languages I am currently working with and learning include Javascript, Ruby, Python, etc. Please take a chance to look at my work journal to see the things I am currently working on or have done in the past. 
+
+![one_piece-luffy](https://github.com/lukenadackapadam/lukenadackapadam/assets/119556443/4eaa91dd-0417-4c7c-9b70-a6303210c07d)
 
 <!--
 **lukenadackapadam/lukenadackapadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
