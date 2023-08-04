@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hello friend, my name is Luke! 👋
+---
+I am a software engineer who loves to learn new things and I am constantly growing. Through logic and creativity, I like to tackle problems that are challenging. Some languages I work with include Javascript, Ruby, Python, etc.  
 
 <!--
 **lukenadackapadam/lukenadackapadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
