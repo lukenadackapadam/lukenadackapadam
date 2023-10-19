@@ -21,7 +21,6 @@ I invite you to take a look at my repositories and explore my growth journal whe
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Video-Clip-Backend](https://github.com/lukenadackapadam/Video-Clip-Backend) & [Video-Clip-Frontend](https://github.com/lukenadackapadam/Video-Clip-Frontend)  
   
@@ -34,12 +33,6 @@ I invite you to take a look at my repositories and explore my growth journal whe
 
 - ⚡ Fun Fact: I'm a jiu-jitsu practitioner    
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -65,15 +58,10 @@ I invite you to take a look at my repositories and explore my growth journal whe
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=lukenadackapadam&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -86,10 +74,4 @@ I invite you to take a look at my repositories and explore my growth journal whe
 </div>  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
