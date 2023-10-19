@@ -70,7 +70,7 @@ I invite you to take a look at my repositories and explore my growth journal whe
 <br/>  
 
 <div align="center">
-<img src="https://media.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" align="center" height="" width="" />
+<img src="https://media.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" align="center" height="100px" width="100px" />
 </div>  
   
 
