@@ -7,6 +7,10 @@
 <a href="https://github.com/lukenadackapadam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
+<div align="right">
+<img src="https://media.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" align="center" height="100px" width="100px" />
+</div> 
   
 
 
@@ -64,14 +68,3 @@ I invite you to take a look at my repositories and explore my growth journal whe
 
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://media.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" align="center" height="100px" width="100px" />
-</div>  
-  
-
-<br/>
