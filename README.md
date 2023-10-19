@@ -18,7 +18,7 @@ I invite you to take a look at my repositories and explore my growth journal whe
 <br/>  
 
 
-## Rapidfire  
+##  
 
 - 🔭 I’m currently working on [Video-Clip-Backend](https://github.com/lukenadackapadam/Video-Clip-Backend) & [Video-Clip-Frontend](https://github.com/lukenadackapadam/Video-Clip-Frontend)  
   
