@@ -8,12 +8,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
-<div align="right">
-<img src="https://media.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" align="center" height="50px" width="150px" />
-</div> 
-  
-
-
 
 ### About me:  
 I'm a software developer fueled by learning and personal growth. Through problem-solving, I thrive on unpacking complex challenges that come my way. My current focus lies in honing my skills in different programming languages, notably JavaScript, Python, & Ruby, and creating more projects! 
