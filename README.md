@@ -24,8 +24,6 @@ I invite you to take a look at my repositories and explore my growth journal whe
 -  🤝 Let's connect & talk about our interests!   
   
 
-- ⚡ Fun Fact: I'm a jiu-jitsu practitioner    
-
 
 <br/>  
 
